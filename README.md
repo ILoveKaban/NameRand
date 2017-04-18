@@ -20,4 +20,4 @@ NameRand uses the MIT license.
 The copyright is in Tateshiki0529.  
 
 [os]: http://tslab.ml/apps/ "Tateshiki Lab. Filebox"
-[lf]: ""
+[lf]: https://github.com/Tateshiki0529/NameRand/releases/latest "NameRand Latest Download"
